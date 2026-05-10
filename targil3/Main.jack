@@ -1,3 +1,5 @@
+/** Adi Toker 327739397 
+Efrat Sandomirsky 327609582*/
 /** Main class for the game */
 class Main {
     function void main() {
